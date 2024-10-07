@@ -17,13 +17,13 @@ const config: Config = {
 			xl: '1440px'
 		},
 		colors: {
-			gray: 'colors.coolGray',
-			blue: 'colors.lightBlue',
-			red: 'colors.rose',
-			pink: 'colors.fuchsia'
+			gray: colors.coolGray,
+			blue: colors.lightBlue,
+			red: colors.rose,
+			pink: colors.fuchsia
 		},
 		fontFamily: {
-			sans: ['Graphik', 'sans-serif'],
+			sans: ['Inter', 'sans-serif'],
 			serif: ['Merriweather', 'serif']
 		},
 		extend: {
